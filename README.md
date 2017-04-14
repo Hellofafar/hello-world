@@ -1,5 +1,5 @@
 # hello-world
 
-Hi everyone!
+Hello!
 
 I am Michael. Nice to meet you here!
